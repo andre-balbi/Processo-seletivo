@@ -1,4 +1,6 @@
-Processo seletivo para Estágio em Análise de Dados (Zubale)
+# Processo seletivo para Estágio em Análise de Dados (Zubale)
+
+## Infos:
 
 **Nome:** André Balbi Aguiar
 
@@ -12,7 +14,7 @@ Processo seletivo para Estágio em Análise de Dados (Zubale)
 
 **Notebook com o passo-a-passo da resolução de cada pergunta:** https://github.com/andrebag/Processo-seletivo/blob/main/estagio_zubale.ipynb
 
-# **Perguntas:**
+## **Perguntas e Respostas:**
 
 1. **Quantos pedidos - únicos - a loja Super Baratão teve no mês de Dezembro?**
     
