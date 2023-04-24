@@ -24,7 +24,7 @@
     
 4. **Construa um gráfico (e compartilhe comigo!) com o total de pedidos de 2022 e 2023. O gráfico deve exibir o total de tarefas de cada loja individualmente.**
     
-    ![My Image](my-image.jpg)
+    ![My Image](graph01.JPG)
     
 
 **5. Identifique o % de variação de pedidos - únicos - por loja no período ano contra ano.**
