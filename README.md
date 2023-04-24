@@ -8,6 +8,8 @@
 
 **Base de dados utilizada:** [https://docs.google.com/spreadsheets/d/1YXZ1dwypkI2l9klKonKQHtU0o6ywSw-Su49C97mvQLM/edit#gid=0](https://docs.google.com/spreadsheets/d/1YXZ1dwypkI2l9klKonKQHtU0o6ywSw-Su49C97mvQLM/edit#gid=0)
 
+**Notebook com o passo-a-passo da resolução de cada pergunta:** https://github.com/andrebag/Processo-seletivo/blob/main/estagio_zubale.ipynb
+
 # **Perguntas:**
 
 1. **Quantos pedidos - únicos - a loja Super Baratão teve no mês de Dezembro?**
