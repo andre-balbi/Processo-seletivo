@@ -35,7 +35,7 @@
 
 **5. Identifique o % de variação de pedidos - únicos - por loja no período ano contra ano.**
 
-|  | Store Name | ano | Order Number | % var |
+|  | Store Name | ano | Total Order | % var |
 | --- | --- | --- | --- | --- |
 | 0 | Mercado Marisol | 2022 | 1093 | - |
 | 1 | Mercado Marisol | 2023 | 1089 | -0.365965 |
